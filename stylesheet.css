@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.header {
+    width: 100%;
+    height: 80px;
+    position: relative;
+
+    background-color: rgb(247, 243, 243);
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-style: italic;
+}
+
+.head {
+     
+    padding-left: 50px;
+}
+
+.nav-list {
+    display: inline-flex;
+    position: relative;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 18px;
+    list-style-type: none;
+
+    padding-right: 80px;
+  
+}
+
+.nav-list a{
+    padding-right: 30px;
+    text-decoration: none;
+}
+.img{
+    width: 25px;
+    margin-left: -500px;
+}
+.img img{
+    width: 100px;
+
+}
+body{
+    background-image: url(/818964ad958f07a74f59d349104fbb86--ghana-homeland.jpg);
+    background-size: cover;
+}
+.HOME{
+ position: relative;
+ margin-left: 250px;
+ font-size: x-large;
+ font-style: italic;
+ margin-top: 30px;
+ color: rgb(122, 24, 241);
+}
+.p{
+    position: relative;
+    margin-left: 250px;
+    font-size: x-large;
+    font-style: italic;
+    color: blue;
+}
+.COURSES{
+    border: 3px solid green;
+    text-align: center;
+    position:relative;
+    font-style: bold;
+    font-size: larger;
+    width: 500px;
+    height: 200px;
+    top: 440px;
+    left: 70px;
+}
+.text{
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+}
+.COURSES2{
+    text-align: center;
+    position: relative;
+    font-style: bold;
+    font-size: larger;
+    color: blanchedalmond;
+    border: 3px solid green;
+    width: 500px;
+    height: 200px;
+    left: 680px;
+    top: 240px;
+    
+}
+.Text{
+    text-align: center;
+    color: white;
+    margin: -6%;
+}
+.Msc programmes{
+    text-align: center;
+    position: relative;
+    font-style: bold;
+    font-size: larger;
+    color: white;
+    
+    margin: 5%;
+}
