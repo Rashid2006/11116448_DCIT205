@@ -107,3 +107,18 @@ body{
     
     margin: 5%;
 }
+.MPHIL{
+    text-align: center;
+}
+
+.abouthead h2 {
+    margin-top: 30px;
+    font-size: 40px;
+    margin-left: 70px;
+}
+
+.abouthead p{
+    margin-left: 40px;
+    font-size: 24px;
+    margin-right: 40px;
+}
