@@ -3,6 +3,10 @@
     padding: 0;
     font-family: 'Times New Roman', Times, serif;
 }
+
+body {
+    background: url(./pictures2/WhatsApp\ Image\ 2023-11-15\ at\ 20.24.55_12ba0500.jpg);
+}
 .header {
     width: 100%;
     height: 80px;
@@ -121,4 +125,42 @@ body{
     margin-left: 40px;
     font-size: 24px;
     margin-right: 40px;
+}
+
+.con h2{
+    text-align: center;
+    font-size: 44px;
+
+}
+
+.cont {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 11px;
+}
+
+.contact {
+    font-size: 29px;
+    margin-left: 90px;
+    margin-top: 30px;
+}
+
+.undergraduate h2{
+    text-align: center;
+    font-size: 34px;
+}
+
+.undergraduate h1{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.course {
+    margin-left: 60px;
+}
+
+.course1 {
+    position: absolute;
+    left: 800px;
+    top: 155px;
 }
